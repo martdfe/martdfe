@@ -1,1 +1,1 @@
-**[Live Preview](www.martinsfe.me)**
+**[Live Preview](martinsfe.me)**
